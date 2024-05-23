@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "RudLib",
-            url: "https://repo.survicate.com/ios/4.4.0/Survicate.zip",
-            checksum: "f7764e13595e13380d299fb82cd9a0893013632fa47e0498f4f7917598725cf4"),
+            url: "https://github.com/Ridkins/JALogger/releases/download/v1.0.0/jaLogger.xcframework.zip",
+            checksum: "085d302ff6ab38d77b61845caf0fe392d0f3c15b8bca5e8fc5c05316abc71825"),
     ]
 )
